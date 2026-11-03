@@ -61,7 +61,7 @@ And people the industry tends to skip: older users, people on cheap phones, peop
 
 ## Repositories
 
-One repository per product is being added here, each with its own README, CHANGELOG and LICENSE. Until a product's repository is public, its page on the site is the source of truth.
+Each product has a public repository here with a README: its score, what works, what is not done yet, and a demo link. Source code is private for now. A CHANGELOG and LICENSE will be added to each repository when its code opens; until then, the product's page on the site is the source of truth.
 
 ## Elsewhere
 
