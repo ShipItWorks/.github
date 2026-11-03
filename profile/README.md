@@ -45,7 +45,11 @@ Up to 100 points per product. A point counts only when there is proof: a test ru
 
 ## Who we build for
 
-People the industry tends to skip: older users, people on cheap phones, people who read slowly, people who have been scammed before. Accessibility is a scored line on every product, not a promise.
+We build for two kinds of people.
+
+Professionals who already have good tools and will judge ours by the same bar: managed service providers (Helmline), IT and security teams (patchowner), and developers (Yield, graph-app, Graphsmith). We're not aiming for "good for a one-person shop." We're aiming for the standard the category leaders set, and we publish the score so you can see how far we are from it.
+
+And people the industry tends to skip: older users, people on cheap phones, people who read slowly, people who have been scammed before (AI Consumer Rights, Plainspoken, ScamShield Companion, HomeIoT Guardian, PocketSec). Same bar. Accessibility is a scored line on every product, not a promise.
 
 ## How we work
 
