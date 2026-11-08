@@ -8,13 +8,13 @@ Site: [shipitworks.com](https://shipitworks.com) · Contact: support@shipitworks
 
 ## The products
 
-Scores as of 2026-11-02, from [shipitworks.com](https://shipitworks.com). Same rubric, same 0-to-100 scale, highest first. Most are not finished; each page says where it stops.
+Scores as of 2026-11-02, from [shipitworks.com](https://shipitworks.com), except Helmline (78, read on the live site 2026-11-07). Same rubric, same 0-to-100 scale, highest first. Most are not finished; each page says where it stops.
 
 | # | Product | Score | Stage | What it does | Demo |
 |---|---------|------:|-------|--------------|------|
 | 1 | [patchowner](https://shipitworks.com/patchowner/) | 83 | Beta | Only verified, relevant, actionable vulnerability notices, routed to the person who can act. | [video + transcript](https://shipitworks.com/patchowner/) |
 | 2 | [AI Consumer Rights](https://shipitworks.com/aiconsumerrights/) | 80 | Beta | Plain-language help with your rights when AI makes decisions about you. | [video + transcript](https://shipitworks.com/aiconsumerrights/) |
-| 3 | [Helmline](https://shipitworks.com/helmline/) | 77 | Beta | Unified RMM and PSA platform for managed service providers, one multi-tenant schema. | [video + transcript](https://shipitworks.com/helmline/) |
+| 3 | [Helmline](https://shipitworks.com/helmline/) | 78 | Beta | Unified RMM and PSA platform for managed service providers, one multi-tenant schema. | [video + transcript](https://shipitworks.com/helmline/) |
 | 4 | [Yield](https://shipitworks.com/yield/) | 76 | Beta | A helper that does tasks, asks before saving anything, and never overspends your cap. | [video + transcript](https://shipitworks.com/yield/) |
 | 5 | [Plainspoken](https://shipitworks.com/apps/#plainspoken) | 75 | Beta | You type what you want; it rewrites a prompt an AI understands, then explains the changes. | [transcript](https://shipitworks.com/plainspoken/transcript/) |
 | 6 | [HomeIoT Guardian](https://shipitworks.com/apps/#HomeIoTGuardian) | 73 | Beta | Audit home Wi-Fi security, discover smart devices, harden your connected home. | [transcript](https://shipitworks.com/homeiotguardian/transcript/) |
