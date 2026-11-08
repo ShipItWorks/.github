@@ -12,7 +12,7 @@ Scores as on [shipitworks.com](https://shipitworks.com) on 2026-11-07, each on o
 
 | # | Product | Score | Stage | What it does | Demo |
 |---|---------|------:|-------|--------------|------|
-| 1 | [patchowner](https://shipitworks.com/patchowner/) | 83 | Beta | Only verified, relevant, actionable vulnerability notices, routed to the person who can act. | [video + transcript](https://shipitworks.com/patchowner/) |
+| 1 | [patchowner](https://shipitworks.com/patchowner/) | 83 | Beta | Turns the CISA KEV catalog into vulnerability notices routed to the owner of an affected item. Built, tested with sample data on a sample inventory; relevance is not measured and it has not been tried on a real inventory. | [video + transcript](https://shipitworks.com/patchowner/) |
 | 2 | [AI Consumer Rights](https://shipitworks.com/aiconsumerrights/) | 80 | Beta | Plain-language help with your rights when AI makes decisions about you. | [video + transcript](https://shipitworks.com/aiconsumerrights/) |
 | 3 | [Helmline](https://shipitworks.com/helmline/) | 78 | Beta | Unified RMM and PSA platform for managed service providers, one multi-tenant schema. | [video + transcript](https://shipitworks.com/helmline/) |
 | 4 | [Yield](https://shipitworks.com/yield/) | 76 | Beta | A helper that does tasks, asks before saving anything, and never overspends your cap. | [video + transcript](https://shipitworks.com/yield/) |
