@@ -8,21 +8,21 @@ Site: [shipitworks.com](https://shipitworks.com) · Contact: support@shipitworks
 
 ## The products
 
-Scores as on [shipitworks.com](https://shipitworks.com) on 2026-11-07, each on our own rubric; no score moved in this update, and each product page gives its scored date. Same rubric, same 0-to-100 scale, highest first. Most are not finished; each page says where it stops.
+Scores as on [shipitworks.com](https://shipitworks.com) on 2026-11-08, each on our own rubric; scores moved in this update (per-feature rule), and each product page gives its scored date and what changed. Same rubric, same 0-to-100 scale, highest first. Most are not finished; each page says where it stops.
 
 | # | Product | Score | Stage | What it does | Demo |
 |---|---------|------:|-------|--------------|------|
-| 1 | [patchowner](https://shipitworks.com/patchowner/) | 83 | Beta | Turns the CISA KEV catalog into vulnerability notices routed to the owner of an affected item. Built, tested with sample data on a sample inventory; relevance is not measured and it has not been tried on a real inventory. | [video + transcript](https://shipitworks.com/patchowner/) |
-| 2 | [AI Consumer Rights](https://shipitworks.com/aiconsumerrights/) | 80 | Beta | Plain-language help with your rights when AI makes decisions about you. | [video + transcript](https://shipitworks.com/aiconsumerrights/) |
-| 3 | [Helmline](https://shipitworks.com/helmline/) | 78 | Beta | Unified RMM and PSA platform for managed service providers, one multi-tenant schema. | [video + transcript](https://shipitworks.com/helmline/) |
-| 4 | [Yield](https://shipitworks.com/yield/) | 76 | Beta | A helper that does tasks, asks before saving anything, and never overspends your cap. | [video + transcript](https://shipitworks.com/yield/) |
-| 5 | [Plainspoken](https://shipitworks.com/apps/#plainspoken) | 75 | Beta | You type what you want; it rewrites a prompt an AI understands, then explains the changes. | [transcript](https://shipitworks.com/plainspoken/transcript/) |
-| 6 | [HomeIoT Guardian](https://shipitworks.com/apps/#HomeIoTGuardian) | 73 | Beta | Audit home Wi-Fi security, discover smart devices, harden your connected home. | [transcript](https://shipitworks.com/homeiotguardian/transcript/) |
-| 7 | [AI Value](https://shipitworks.com/apps/#aivalue) | 72 | Beta | Model AI ROI, P&L margins, balance-sheet cash flow and 30-day adoption pilots. | [transcript](https://shipitworks.com/aivalue/transcript/) |
-| 8 | [ScamShield Companion](https://shipitworks.com/apps/#scamshield-companion) | 71 | Beta | Offline-first scam-safety app built around Prevent, Protect, Recover; built so analysis runs on the device (offline use not yet tested). | [transcript](https://shipitworks.com/scamshield-companion/transcript/) |
-| 9 | [graph-app](https://shipitworks.com/apps/#graph-app) | 67 | Beta | Give your AI coding assistant a map of your code. | [transcript](https://shipitworks.com/graph-app/transcript/) |
-| 10 | [Graphsmith](https://shipitworks.com/apps/#graphsmith) | 67 | Beta | A design-time environment for graph-based AI and automation workflows. | [transcript](https://shipitworks.com/graphsmith/transcript/) |
-| 11 | [PocketSec](https://shipitworks.com/apps/#pocketsec) | 63 | Beta | Find out how hackable you are in 60 seconds. The scan runs in your browser. | [transcript](https://shipitworks.com/pocketsec/transcript/) |
+| 1 | [patchowner](https://shipitworks.com/patchowner/) | 84 | Beta | Turns the CISA KEV catalog into vulnerability notices routed to the owner of an affected item. Built; seven of eight features proven on a sample inventory, one tested with sample data; relevance is not measured and it has not been tried on an organization's own inventory. | [video + transcript](https://shipitworks.com/patchowner/) |
+| 2 | [Graphsmith](https://shipitworks.com/apps/#graphsmith) | 82 | Beta | A design-time environment for graph-based AI and automation workflows. | [transcript](https://shipitworks.com/graphsmith/transcript/) |
+| 3 | [AI Consumer Rights](https://shipitworks.com/aiconsumerrights/) | 78 | Beta | Plain-language help with your rights when AI makes decisions about you. | [video + transcript](https://shipitworks.com/aiconsumerrights/) |
+| 4 | [Yield](https://shipitworks.com/yield/) | 70 | Beta | A helper that does tasks, asks before saving anything, and stops at the spending cap you set. | [video + transcript](https://shipitworks.com/yield/) |
+| 5 | [AI Value](https://shipitworks.com/apps/#aivalue) | 68 | Beta | Model AI ROI, P&L margins, Balance Sheet cash flow & 30-day adoption pilots. | [transcript](https://shipitworks.com/aivalue/transcript/) |
+| 6 | [Plainspoken](https://shipitworks.com/apps/#plainspoken) | 67 | Beta | You type what you want; it rewrites a prompt an AI understands, then explains changes. | [transcript](https://shipitworks.com/plainspoken/transcript/) |
+| 7 | [HomeIoT Guardian](https://shipitworks.com/apps/#HomeIoTGuardian) | 66 | Beta | Audit home Wi-Fi security, discover smart devices, harden your connected home. | [transcript](https://shipitworks.com/homeiotguardian/transcript/) |
+| 8 | [Helmline](https://shipitworks.com/helmline/) | 65 | Beta | Unified RMM and PSA platform for managed service providers, one multi-tenant schema | [video + transcript](https://shipitworks.com/helmline/) |
+| 9 | [ScamShield Companion](https://shipitworks.com/apps/#scamshield-companion) | 65 | Beta | Offline-first scam-safety app built around Prevent, Protect, Recover; built so analysis runs on the device (offline use not yet tested). | [transcript](https://shipitworks.com/scamshield-companion/transcript/) |
+| 10 | [graph-app](https://shipitworks.com/apps/#graph-app) | 64 | Beta | Give your AI coding assistant a map of your code. | [transcript](https://shipitworks.com/graph-app/transcript/) |
+| 11 | [PocketSec](https://shipitworks.com/apps/#pocketsec) | 56 | Under 60 (alpha) | Find out how hackable you are. The scan runs in your browser; what leaves the device is not yet traced (the password check sends a 5-character hash prefix to Have I Been Pwned). | [transcript](https://shipitworks.com/pocketsec/transcript/) |
 
 None of the Android apps is on Google Play yet. Google asks new developer accounts to run a closed test with 12 testers for 14 days first; we have not done that test.
 
