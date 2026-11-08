@@ -8,7 +8,7 @@ Site: [shipitworks.com](https://shipitworks.com) · Contact: support@shipitworks
 
 ## The products
 
-Scores as of 2026-11-02, from [shipitworks.com](https://shipitworks.com), except Helmline (78, read on the live site 2026-11-07). Same rubric, same 0-to-100 scale, highest first. Most are not finished; each page says where it stops.
+Scores as on [shipitworks.com](https://shipitworks.com) on 2026-11-07, each on our own rubric; no score moved in this update, and each product page gives its scored date. Same rubric, same 0-to-100 scale, highest first. Most are not finished; each page says where it stops.
 
 | # | Product | Score | Stage | What it does | Demo |
 |---|---------|------:|-------|--------------|------|
@@ -19,7 +19,7 @@ Scores as of 2026-11-02, from [shipitworks.com](https://shipitworks.com), except
 | 5 | [Plainspoken](https://shipitworks.com/apps/#plainspoken) | 75 | Beta | You type what you want; it rewrites a prompt an AI understands, then explains the changes. | [transcript](https://shipitworks.com/plainspoken/transcript/) |
 | 6 | [HomeIoT Guardian](https://shipitworks.com/apps/#HomeIoTGuardian) | 73 | Beta | Audit home Wi-Fi security, discover smart devices, harden your connected home. | [transcript](https://shipitworks.com/homeiotguardian/transcript/) |
 | 7 | [AI Value](https://shipitworks.com/apps/#aivalue) | 72 | Beta | Model AI ROI, P&L margins, balance-sheet cash flow and 30-day adoption pilots. | [transcript](https://shipitworks.com/aivalue/transcript/) |
-| 8 | [ScamShield Companion](https://shipitworks.com/apps/#scamshield-companion) | 71 | Beta | Offline-first scam-safety app built around Prevent, Protect, Recover; all analysis on device. | [transcript](https://shipitworks.com/scamshield-companion/transcript/) |
+| 8 | [ScamShield Companion](https://shipitworks.com/apps/#scamshield-companion) | 71 | Beta | Offline-first scam-safety app built around Prevent, Protect, Recover; built so analysis runs on the device (offline use not yet tested). | [transcript](https://shipitworks.com/scamshield-companion/transcript/) |
 | 9 | [graph-app](https://shipitworks.com/apps/#graph-app) | 67 | Beta | Give your AI coding assistant a map of your code. | [transcript](https://shipitworks.com/graph-app/transcript/) |
 | 10 | [Graphsmith](https://shipitworks.com/apps/#graphsmith) | 67 | Beta | A design-time environment for graph-based AI and automation workflows. | [transcript](https://shipitworks.com/graphsmith/transcript/) |
 | 11 | [PocketSec](https://shipitworks.com/apps/#pocketsec) | 63 | Beta | Find out how hackable you are in 60 seconds. The scan runs in your browser. | [transcript](https://shipitworks.com/pocketsec/transcript/) |
@@ -61,7 +61,11 @@ And people the industry tends to skip: older users, people on cheap phones, peop
 
 ## Repositories
 
-Each product has a public repository here with a README: its score, what works, what is not done yet, and a demo link. Source code is private for now. A CHANGELOG and LICENSE will be added to each repository when its code opens; until then, the product's page on the site is the source of truth.
+Each product has a public repository here with a README and a CHANGELOG: its score, what works, what is not done yet, what changed, and a demo link. Source code is private for now; a LICENSE will be added when a repository's code opens. Until then the product's page on the site is the source of truth.
+
+## Latest changes (2026-11-07)
+
+Dated lines for each product are on its page under "What changed" and in its repository's CHANGELOG. Merged to a default branch this round: Yield, Helmline, AI Consumer Rights, HomeIoT Guardian, ScamShield Companion, AI Value, PocketSec, graph-app and Graphsmith. patchowner and Plainspoken had nothing merged. Release tags now exist on each private repository's default branch.
 
 ## Elsewhere
 
@@ -69,4 +73,4 @@ Each product has a public repository here with a README: its score, what works, 
 
 ---
 
-This README was drafted with Claude (Anthropic) from the site's own pages on 2026-11-02 and reviewed by Robert Sweetman.
+This README was drafted with Claude (Anthropic) from the site's own pages on 2026-11-02 and reviewed by Robert Sweetman. The 2026-11-07 update was made by Claude from the site's pages and has not been reviewed.
