@@ -8,7 +8,7 @@ Site: [shipitworks.com](https://shipitworks.com) · Contact: support@shipitworks
 
 ## The products
 
-Scores as on [shipitworks.com](https://shipitworks.com) on 2026-11-08, each on our own rubric; scores moved in this update (per-feature rule), and each product page gives its scored date and what changed. Same rubric, same 0-to-100 scale, highest first. Most are not finished; each page says where it stops.
+Scores as on [shipitworks.com](https://shipitworks.com) on 2026-11-10, each on our own rubric; scores moved in this update (per-feature rule), and each product page gives its scored date and what changed. Same rubric, same 0-to-100 scale, highest first. Most are not finished; each page says where it stops.
 
 | # | Product | Score | Stage | What it does | Demo |
 |---|---------|------:|-------|--------------|------|
@@ -22,7 +22,7 @@ Scores as on [shipitworks.com](https://shipitworks.com) on 2026-11-08, each on o
 | 8 | [Helmline](https://shipitworks.com/helmline/) | 65 | Beta | Unified RMM and PSA platform for managed service providers, one multi-tenant schema | [video + transcript](https://shipitworks.com/helmline/) |
 | 9 | [ScamShield Companion](https://shipitworks.com/apps/#scamshield-companion) | 65 | Beta | Offline-first scam-safety app built around Prevent, Protect, Recover; built so analysis runs on the device (offline use not yet tested). | [transcript](https://shipitworks.com/scamshield-companion/transcript/) |
 | 10 | [graph-app](https://shipitworks.com/apps/#graph-app) | 64 | Beta | Give your AI coding assistant a map of your code. | [transcript](https://shipitworks.com/graph-app/transcript/) |
-| 11 | [PocketSec](https://shipitworks.com/apps/#pocketsec) | 56 | Under 60 (alpha) | Find out how hackable you are. The scan runs in your browser; what leaves the device is not yet traced (the password check sends a 5-character hash prefix to Have I Been Pwned). | [transcript](https://shipitworks.com/pocketsec/transcript/) |
+| 11 | [PocketSec](https://shipitworks.com/apps/#pocketsec) | 56 | Alpha | Find out how hackable you are. The scan runs in your browser; what leaves the device is not yet traced (the password check sends a 5-character hash prefix to Have I Been Pwned). | [transcript](https://shipitworks.com/pocketsec/transcript/) |
 
 None of the Android apps is on Google Play yet. Google asks new developer accounts to run a closed test with 12 testers for 14 days first; we have not done that test.
 
