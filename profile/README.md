@@ -8,7 +8,7 @@ Site: [shipitworks.com](https://shipitworks.com) · Contact: support@shipitworks
 
 ## The products
 
-Scores as on [shipitworks.com](https://shipitworks.com) on 2026-11-10, each on our own rubric; scores moved in this update (per-feature rule), and each product page gives its scored date and what changed. Same rubric, same 0-to-100 scale, highest first. Most are not finished; each page says where it stops.
+Scores as on [shipitworks.com](https://shipitworks.com) on 2026-11-16, each on our own rubric; no score moved in this update, and each product page gives its scored date and what changed. Same rubric, same 0-to-100 scale, highest first. Most are not finished; each page says where it stops.
 
 | # | Product | Score | Stage | What it does | Demo |
 |---|---------|------:|-------|--------------|------|
