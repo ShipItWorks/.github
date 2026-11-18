@@ -8,21 +8,21 @@ Site: [shipitworks.com](https://shipitworks.com) · Contact: support@shipitworks
 
 ## The products
 
-Scores as on [shipitworks.com](https://shipitworks.com) on 2026-11-16, each on our own rubric; no score moved in this update, and each product page gives its scored date and what changed. Same rubric, same 0-to-100 scale, highest first. Most are not finished; each page says where it stops.
+Scores as on [shipitworks.com](https://shipitworks.com) on 2026-11-18, each on our own rubric; no score moved in this update, and each product page gives its scored date and what changed. Same rubric, same 0-to-100 scale, highest first. Most are not finished; each page says where it stops.
 
 | # | Product | Score | Stage | What it does | Demo |
 |---|---------|------:|-------|--------------|------|
 | 1 | [patchowner](https://shipitworks.com/patchowner/) | 84 | Beta | Turns the CISA KEV catalog into vulnerability notices routed to the owner of an affected item. Built; seven of eight features proven on a sample inventory, one tested with sample data; relevance is not measured and it has not been tried on an organization's own inventory. | [video + transcript](https://shipitworks.com/patchowner/) |
-| 2 | [Graphsmith](https://shipitworks.com/apps/#graphsmith) | 82 | Beta | A design-time environment for graph-based AI and automation workflows. | [transcript](https://shipitworks.com/graphsmith/transcript/) |
+| 2 | [Graphsmith](https://shipitworks.com/graphsmith/) | 82 | Beta | A design-time environment for graph-based AI and automation workflows. | [transcript](https://shipitworks.com/graphsmith/transcript/) |
 | 3 | [AI Consumer Rights](https://shipitworks.com/aiconsumerrights/) | 78 | Beta | Plain-language help with your rights when AI makes decisions about you. | [video + transcript](https://shipitworks.com/aiconsumerrights/) |
-| 4 | [Yield](https://shipitworks.com/yield/) | 70 | Beta | A helper that does tasks, asks before saving anything, and stops at the spending cap you set. | [video + transcript](https://shipitworks.com/yield/) |
-| 5 | [AI Value](https://shipitworks.com/apps/#aivalue) | 68 | Beta | Model AI ROI, P&L margins, Balance Sheet cash flow & 30-day adoption pilots. | [transcript](https://shipitworks.com/aivalue/transcript/) |
-| 6 | [Plainspoken](https://shipitworks.com/apps/#plainspoken) | 67 | Beta | You type what you want; it rewrites a prompt an AI understands, then explains changes. | [transcript](https://shipitworks.com/plainspoken/transcript/) |
-| 7 | [HomeIoT Guardian](https://shipitworks.com/apps/#HomeIoTGuardian) | 66 | Beta | Audit home Wi-Fi security, discover smart devices, harden your connected home. | [transcript](https://shipitworks.com/homeiotguardian/transcript/) |
+| 4 | [Yield](https://shipitworks.com/yield/) | 70 | Beta | An agent orchestration platform: its agents do tasks, ask before saving anything, and are designed to stop at the spending cap you set. | [video + transcript](https://shipitworks.com/yield/) |
+| 5 | [AI Value](https://shipitworks.com/aivalue/) | 68 | Beta | Model AI ROI, P&L margins, Balance Sheet cash flow & 30-day adoption pilots. | [transcript](https://shipitworks.com/aivalue/transcript/) |
+| 6 | [Plainspoken](https://shipitworks.com/plainspoken/) | 67 | Beta | You type what you want; it rewrites a prompt an AI understands, then explains changes. | [transcript](https://shipitworks.com/plainspoken/transcript/) |
+| 7 | [HomeIoT Guardian](https://shipitworks.com/homeiotguardian/) | 66 | Beta | Guided checks of your home Wi-Fi settings, a scan for devices that announce themselves, and a checklist to harden each one. | [transcript](https://shipitworks.com/homeiotguardian/transcript/) |
 | 8 | [Helmline](https://shipitworks.com/helmline/) | 65 | Beta | Unified RMM and PSA platform for managed service providers, one multi-tenant schema | [video + transcript](https://shipitworks.com/helmline/) |
-| 9 | [ScamShield Companion](https://shipitworks.com/apps/#scamshield-companion) | 65 | Beta | Offline-first scam-safety app built around Prevent, Protect, Recover; built so analysis runs on the device (offline use not yet tested). | [transcript](https://shipitworks.com/scamshield-companion/transcript/) |
-| 10 | [graph-app](https://shipitworks.com/apps/#graph-app) | 64 | Beta | Give your AI coding assistant a map of your code. | [transcript](https://shipitworks.com/graph-app/transcript/) |
-| 11 | [PocketSec](https://shipitworks.com/apps/#pocketsec) | 56 | Alpha | Find out how hackable you are. The scan runs in your browser; what leaves the device is not yet traced (the password check sends a 5-character hash prefix to Have I Been Pwned). | [transcript](https://shipitworks.com/pocketsec/transcript/) |
+| 9 | [ScamShield Companion](https://shipitworks.com/scamshield-companion/) | 65 | Beta | Offline-first scam-safety app built around Prevent, Protect, Recover; built so analysis runs on the device (offline use not yet tested). | [transcript](https://shipitworks.com/scamshield-companion/transcript/) |
+| 10 | [Onegin](https://shipitworks.com/onegin/) | 64 | Beta | Give your AI coding assistant a map of your code. | [transcript](https://shipitworks.com/onegin/transcript/) |
+| 11 | [PocketSec](https://shipitworks.com/pocketsec/) | 56 | Alpha | Find out how hackable you are. The scan runs in your browser; what leaves the device is not yet traced (the password check sends a 5-character hash prefix to Have I Been Pwned). | [transcript](https://shipitworks.com/pocketsec/transcript/) |
 
 None of the Android apps is on Google Play yet. Google asks new developer accounts to run a closed test with 12 testers for 14 days first; we have not done that test.
 
@@ -56,16 +56,16 @@ And people the industry tends to skip: older users, people on cheap phones, peop
 - Say only what we can back. Every number names its source.
 - Say what is not finished before anyone asks.
 - Name people, companies and tools to give credit. If we cannot name them to credit them, we leave the name out.
-- Collect as little data as possible. No forms, no accounts, no newsletter; one email reaches us.
-- We use AI and say so. Claude (by Anthropic) helps write the code and wrote the site. Demo videos are narrated by an AI voice (ElevenLabs, "Alice") over made-up demo data, and each video says so at the end.
+- Collect as little data as possible. No accounts and no newsletter. Each product page has a waitlist form, and one email reaches us.
+- We use AI and say so. Claude (by Anthropic) helps write the code and wrote the site. Demo videos are narrated by an AI voice (ElevenLabs, "Bella") over made-up demo data, and each video says so at the end.
 
 ## Repositories
 
 Each product has a public repository here with a README and a CHANGELOG: its score, what works, what is not done yet, what changed, and a demo link. Source code is private for now; a LICENSE will be added when a repository's code opens. Until then the product's page on the site is the source of truth.
 
-## Latest changes (2026-11-07)
+## Latest changes (2026-11-18)
 
-Dated lines for each product are on its page under "What changed" and in its repository's CHANGELOG. Merged to a default branch this round: Yield, Helmline, AI Consumer Rights, HomeIoT Guardian, ScamShield Companion, AI Value, PocketSec, graph-app and Graphsmith. patchowner and Plainspoken had nothing merged. Release tags now exist on each private repository's default branch.
+Dated lines for each product are on its page under "What changed" and in its repository's CHANGELOG. This update corrects lines that a review on 2026-11-18 found wrong or out of date; no product code was merged for it and no score moved. Five products are live on their own sites and are now linked from their pages: patchowner, Graphsmith, Plainspoken, AI Consumer Rights and PocketSec. graph-app is now shown under its product name, Onegin; its repository keeps the old name for now.
 
 ## Elsewhere
 
