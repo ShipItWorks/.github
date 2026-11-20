@@ -12,7 +12,7 @@ Site: [shipitworks.com](https://shipitworks.com) · Contact: support@shipitworks
 
 Scores are from each product's scorecard on [shipitworks.com](https://shipitworks.com), each on my own rubric; the Scored column gives the date of each one. Same rubric, same 0-to-100 scale, highest first. Most are not finished; each page says where it stops.
 
-Paused since 18 November 2026, while I finish patchowner. patchowner is the only product I am working on.
+Paused since 18 November 2026, while I finish patchowner.
 
 | # | Product | Score | Stage | Scored | Status | What it does | Demo |
 |---|---------|------:|-------|--------|--------|--------------|------|
