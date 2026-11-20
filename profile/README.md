@@ -62,7 +62,7 @@ And people the industry tends to skip: older users, people on cheap phones, peop
 - I say only what I can back. Every number names its source.
 - I say what is not finished before anyone asks.
 - I name people, companies and tools to give credit. If I cannot name them to credit them, I leave the name out.
-- I collect as little data as possible. No accounts and no newsletter. Each product page has a waitlist form, and one email reaches me.
+- I collect as little data as possible. No accounts and no newsletter. Each paused product's page has a waitlist form; patchowner's page asks for a replay by email. One email reaches me.
 - Built with Claude, by Anthropic. Directed, tested and owned by Robert Sweetman in Stoughton, Massachusetts. Demo videos are narrated by an AI voice (ElevenLabs, "Bella") over made-up demo data, and each video says so at the end.
 
 ## Repositories
